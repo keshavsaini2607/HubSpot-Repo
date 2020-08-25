@@ -1,0 +1,58 @@
+.cardFour {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 150px;
+}
+
+.heading > h1 {
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.line_one {
+    display: flex;
+}
+
+.heading > h5 {
+    margin-top: 10px;
+    margin-left: 120px;
+    opacity: 0.7;
+}
+
+.company_logo{
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.company_logo > img {
+    margin-left: 30px;
+    width: 150px;
+}
+
+.company_logo_one > img {
+    widows: 150px;
+}
+
+.description_text {
+    margin-top: 200px;
+    margin-left: 120px;
+}
+
+.card_description {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card_description > img {
+    width: 300px;
+}
+
+.description_button {
+    border: none;
+    padding: 20px;
+    background-color: #ff7a59;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+}
+

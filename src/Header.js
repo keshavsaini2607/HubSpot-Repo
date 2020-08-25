@@ -7,7 +7,7 @@ function Header() {
     return (
         <div className="header">
             <div className="header__lang">
-                <MicIcon className="header__mic" fontSize="large" />
+                <MicIcon className="header__mic" />
                 <div class="dropdown">
                     <div className="menu__title">
                         <span className="lang__title">English</span>
